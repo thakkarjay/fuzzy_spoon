@@ -123,6 +123,7 @@ components:
           type: string
         city:
           type: string
+          required: true
         pizzas:
           type: Pizzas
     Orders:
